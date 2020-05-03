@@ -1,0 +1,14 @@
+---
+title: "HolaMundo"
+author: "Javier Valencia"
+date: "03/05/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is Markdown File
+
+This is a text created by Javier Emilio Valencia Soto. For me, it's easier generate documents in order to export to Word, or another software. The are many posibilities to made a good analysis. 
